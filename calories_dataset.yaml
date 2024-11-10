@@ -1,0 +1,7 @@
+path:  C:\Users\prana\OneDrive\Desktop\ML project
+
+train: C:\Users\prana\OneDrive\Desktop\ML project\images\train
+val: C:\Users\prana\OneDrive\Desktop\ML project\images\val    
+
+nc: 1                
+names: ['Calories']  
